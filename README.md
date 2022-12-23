@@ -2,6 +2,8 @@
  URP AR Project course
  
  This project was made entirely with [Visual Scripting](https://unity.com/features/unity-visual-scripting). The objective was to teach how to do an AR application to people that never used Unity before.
+ 
+ ![ARapp](https://user-images.githubusercontent.com/26387738/209350126-fcd5623e-b520-4a94-b42f-f2be2c860baa.jpg)
 
 
 <h2>Assets used in this project</h2>
